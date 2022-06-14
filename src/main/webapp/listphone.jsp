@@ -1,0 +1,21 @@
+<%--
+  Created by IntelliJ IDEA.
+  User: uinhi
+  Date: 6/14/2022
+  Time: 10:49 AM
+  To change this template use File | Settings | File Templates.
+--%>
+<%@ page contentType="text/html;charset=UTF-8" language="java" %>
+<html>
+<head>
+    <title>Title</title>
+</head>
+<body>
+<select name="brand">
+    <option value="Apple">Apple</option>
+    <option value="Samsung">Samsung</option>
+    <option value="Nokia">Nokia</option>
+    <option value="Others">Others</option>
+</select>
+</body>
+</html>
